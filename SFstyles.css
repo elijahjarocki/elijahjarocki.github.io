@@ -27,7 +27,7 @@ section p {
 
 @media (max-width:2000px) {
     body {
-        background-image: url(../img/1400px.jpg);
+        background-image: url(1400px.jpg);
         background-position: bottom;
     background-attachment: fixed;
     background-repeat: repeat-x;
@@ -67,7 +67,7 @@ section p {
 
 @media (max-width: 1400px) {
   body{
-    background-image: url(../img/1400px.jpg);
+    background-image: url(1400px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -106,7 +106,7 @@ section p {
     
 @media (max-width: 1300px) {
   body{
-    background-image: url(../img/1300px.jpg);
+    background-image: url(1300px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -145,7 +145,7 @@ section p {
     
     @media (max-width: 1200px) {
   body{
-    background-image: url(../img/1200px.jpg);
+    background-image: url(1200px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -184,7 +184,7 @@ section p {
     
         @media (max-width: 1100px) {
   body{
-    background-image: url(../img/1100px.jpg);
+    background-image: url(1100px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -223,7 +223,7 @@ section p {
     
             @media (max-width: 1000px) {
   body{
-    background-image: url(../img/1000px.jpg);
+    background-image: url(1000px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -262,7 +262,7 @@ section p {
     
                 @media (max-width: 900px) {
   body{
-    background-image: url(../img/900px.jpg);
+    background-image: url(900px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -301,7 +301,7 @@ section p {
     
                     @media (max-width: 600px) {
   body{
-    background-image: url(../img/600px.jpg);
+    background-image: url(600px.jpg);
       background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
@@ -341,7 +341,7 @@ section p {
     
 @media (max-width: 300px) {
   body{
-    background-image: url(../img/300px.jpg);
+    background-image: url(300px.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-attachment: fixed;
